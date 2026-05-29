@@ -14,9 +14,9 @@ Monocular depth estimation project for "Vision and Perception" course.
 ### 🚀 Project setup
 
 #### Project directory
-[[Downloads]](https://drive.google.com/drive/folders/1pBjw5aPP-Nje16rCnUfcF4TCGlRLldJv?usp=drive_link) Trained PTP models for evaluation: ptp_model_swin_base.ckpt, ptp_model_swin_large.ckpt.
+[[Downloads]](https://drive.google.com/drive/folders/1T6bOezNsM7cvLb-0lhklA4eb4RspgLko?usp=sharing) Trained PTP models for evaluation: ptp_model_swin_base.ckpt, ptp_model_swin_large.ckpt.
 
-[[Downloads]](https://drive.google.com/drive/folders/1z0joWF-RkMEJ92PVTI3YYbmQYIn2ARBv?usp=drive_link) Weights for Swin Transformer V2 (Swin-Base and Swin-Large): swin_v2_base_simmim.pth, swin_v2_large_simmim.pth.
+[[Downloads]](https://drive.google.com/drive/folders/1htp9Z9nggP3JGkc0eOxd8x_nVzGQ6h5f?usp=sharing) Weights for Swin Transformer V2 (Swin-Base and Swin-Large): swin_v2_base_simmim.pth, swin_v2_large_simmim.pth.
 ```
 root
 - ckpt
